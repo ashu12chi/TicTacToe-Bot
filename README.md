@@ -1,5 +1,7 @@
 # TicTacToe-Bot
 This is a classical Tic Tac Toe game, you can play it with a Bot. But, remember advance bot is pro enough to prove you a Noob.
+### Link to site:
+ https://ashu12chi.github.io/TicTacToe-Bot/.
 
 ### Python module required
     1. gtts 
