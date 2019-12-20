@@ -6,11 +6,11 @@ This is a classical Tic Tac Toe game, you can play it with a Bot. But, remember 
 https://github.com/ashu12chi/TicTacToe-Bot/blob/master/TicTacToe-Best.exe
 
 ### Python module required
-    1. gtts 
-    2. tkinter 
-    3. copy 
-    4. os 
-    5. playsound 
+   1. [gtts](https://pypi.org/project/gTTS/)
+   2. [tkinter](https://docs.python.org/2/library/tkinter.html)
+   3. [copy](https://docs.python.org/3/library/copy.html)
+   4. [os](https://docs.python.org/3/library/os.html)
+   5. [playsound](https://pypi.org/project/playsound/) 
 
 This code is written for python3 but with very few changes it will work with python2 also.
 
