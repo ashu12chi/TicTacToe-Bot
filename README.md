@@ -23,8 +23,10 @@ This code is written for python3 but with very few changes it will work with pyt
 When you start the game, it will ask you to choose among two options: <br>
   1. Beginner <br>
   2. Advance <br>
+  <br>![alt txt](https://github.com/ashu12chi/TicTacToe-Bot/blob/master/Welcome.png)<br>
 Choose any one of the above two options, and play it with a Bot. <br>
 Remember!!! It is very difficult to win at advance level.
+<br><br>![alt txt](https://github.com/ashu12chi/TicTacToe-Bot/blob/master/Game.png) <br>
 ## Algorithm explanation
 1. Beginner: <br>
     It is using a very simple algorithm that follows following steps: <br>
